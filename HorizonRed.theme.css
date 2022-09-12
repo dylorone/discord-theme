@@ -1,0 +1,48 @@
+/**
+ * @name HorizonRed
+ * @author Gibbu#1211
+ * @version 2.0.0
+ * @description Display your picture of choice with adjustable blur and brightness.
+ * @source https://github.com/DiscordStyles/FrostedGlass
+ * @invite ZHthyCw
+ * @donate https://paypal.me/IanRGibson
+ * @website https://gibbu.me
+ * @authorId 174868361040232448
+*/
+
+@import url('https://discordstyles.github.io/FrostedGlass/dist/FrostedGlass.css');
+@import url('https://discordstyles.github.io/Addons/windows-titlebar.css');
+
+:root {
+  --background-image: url('https://raw.githubusercontent.com/dylorone/discord-theme/master/horizon-zero-dawn-victory-recolor.jpeg');
+  --background-image-blur: 5px;
+  --background-image-size: cover;
+  --background-image-position: center;
+  --popout-modal-image: url('https://raw.githubusercontent.com/dylorone/discord-theme/master/user-popup.jpg');
+  --popout-modal-blur: 1px;
+  --popout-modal-size: contain;
+  --popout-modal-position: center;
+  --home-button-image: url('https://gibbu.github.io/BetterDiscord-Themes/FrostedGlass/assets/discord.svg');
+  --home-button-size: cover;
+  --home-button-position: center;
+  --serverlist-brightness: 0.8;
+  --left-brightness: 0.9;
+  --middle-brightness: 0.62;
+  --right-brightness: 0.4;
+  --popout-modal-brightness: 0.78;
+  --gradient-primary: 233,30,99;
+  --gradient-secondary: 233,30,61;
+  --link-colour: #F44336;
+  --scrollbar-colour: rgb(233,30,99,0.37);
+  --gradient-direction: 320deg;
+  --tint-colour: 233,30,99;
+  --tint-brightness: 0.1;
+  --font: Whitney;
+  --window-padding: 4px;
+  --window-roundness: 5px;
+  --update-notice-1: none;
+}
+
+/* Any custom CSS below here */
+
+
